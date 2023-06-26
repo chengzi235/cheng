@@ -1,4 +1,4 @@
-# Documentation example
+# Documentation
 
-We use this example in one [CodeRefinery](https://coderefinery.org/) lesson:
+Use this example in one [CodeRefinery](https://coderefinery.org/) lesson:
 - https://coderefinery.github.io/documentation/
