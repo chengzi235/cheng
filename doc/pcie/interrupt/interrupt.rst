@@ -47,9 +47,9 @@
     通过 MSI Capability structure 中的 Command Register 来使能或者禁用，然而，当使能
     MSI中断时INTx中断会被自动禁用。
     
-    .. figure:: _images/configuration_status_register—interrupt_status_field.png
+    .. figure:: _images/configuration_status_register-interrupt_status_field.png
         :align: center
-        :target: _images/configuration_status_register—interrupt_status_field.png
+        :target: _images/configuration_status_register-interrupt_status_field.png
 
         *Configuration Status Register — Interrupt Status Field*
 
@@ -58,9 +58,9 @@
 
     - PCIe系统中对INTx的模拟
 
-    .. figure:: _images/example_of_INTx_messages_to_virtualize_INTA‐INTD.png
+    .. figure:: _images/example_of_INTx_messages_to_virtualize_INTA-INTD.png
         :align: center
-        :target: _images/example_of_INTx_messages_to_virtualize_INTA‐INTD.png
+        :target: _images/example_of_INTx_messages_to_virtualize_INTA-INTD.png
 
         *Example of INTx Messages to Virtualize INTA#‐INTD# Signal Transitions*
 
