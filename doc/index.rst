@@ -8,7 +8,7 @@ Documentation
 ==============
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
 
    kernel/kernel.rst
    pcie/pcie.rst
